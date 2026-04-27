@@ -16,9 +16,7 @@ ALGORITHMS AND PROBLEM SOLVING - LAB NOTEBOOKS
 | Lab 11 | Travelling salesman problem using Dynamic Programming |  | [Open](Lab_11.ipynb) |
 
 
-# Leetcode 🚀
-
-This repository contains my solutions to various LeetCode problems. The table below tracks the problems I have solved, prioritized by difficulty (Medium, Hard, then Easy).
+# Leetcode 
 
 ## Solved Problems
 
