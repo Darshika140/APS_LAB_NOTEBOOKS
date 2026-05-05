@@ -1,5 +1,12 @@
-ALGORITHMS AND PROBLEM SOLVING - LAB NOTEBOOKS
-# 📁 Lab Files
+
+# 📘 Algorithms and Problem Solving - Lab Notebooks
+
+This repository contains all lab work for the **Algorithms and Problem Solving** course.  
+Each lab focuses on a key concept with implementation in Python using Jupyter Notebooks.
+
+---
+
+## 📁 Lab Files
 
 | Lab No. | Topic | Date | File |
 | :--- | :--- | :--- | :---: |
@@ -7,15 +14,39 @@ ALGORITHMS AND PROBLEM SOLVING - LAB NOTEBOOKS
 | Lab 2 | Algorithm Basics | 19 Jan 26 | [Open](Lab_2_AlgorithmsBasics.ipynb) |
 | Lab 3 | Growth of Function | 2 Feb 26 | [Open](Lab_3_Growth_of_function.ipynb) |
 | Lab 4 | Searching | 2 Feb 26 | [Open](lab_4.ipynb) |
-| Lab 5 | Divide and Conquer(Sorting) | 16 Feb 26 | [Open](Lab_5.ipynb) |
-| Lab 6 | Divide and Conquer(Sorting) | 23 Feb 26 | [Open](Lab_6.ipynb) |
+| Lab 5 | Divide and Conquer (Sorting) | 16 Feb 26 | [Open](Lab_5.ipynb) |
+| Lab 6 | Divide and Conquer (Sorting) | 23 Feb 26 | [Open](Lab_6.ipynb) |
 | Lab 7 | Greedy Knapsack Problem (Fractional) | 23 Feb 26 | [Open](Lab_7.ipynb) |
 | Lab 8 | Minimum Cost Spanning Tree | 16 March 26 | [Open](Lab_8.ipynb) |
 | Lab 9 | Shortest Path Using Dijkstra Algorithm in Python | 6 April 26 | [Open](Lab_9.ipynb) |
 | Lab 10 | Warshall Algorithm |  | [Open](Lab_10.ipynb) |
-| Lab 11 | Travelling salesman problem using Dynamic Programming |  | [Open](Lab_11.ipynb) |
+| Lab 11 | Travelling Salesman Problem using Dynamic Programming |  | [Open](Lab_11.ipynb) |
+| Lab 12 | Matrix Chain Multiplication (Dynamic Programming with Table Filling) |  | [Open](Lab_12.ipynb) |
 
+---
 
+## 🛠️ Technologies Used
+- Python
+- Jupyter Notebook
+
+---
+
+## 📌 Topics Covered
+- Algorithm Basics
+- Time Complexity & Growth of Functions
+- Searching Algorithms
+- Sorting (Divide and Conquer)
+- Greedy Algorithms
+- Minimum Spanning Tree
+- Shortest Path Algorithms
+- Dynamic Programming
+
+---
+
+## ✨ Author
+Darshika Shrivastava
+
+---
 # Leetcode 
 
 ## Solved Problems
